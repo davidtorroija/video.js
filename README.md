@@ -1,4 +1,4 @@
-#Videojs XHTML 0.1
+#Videojs XHTML 0.0.1
 
 - Videojs version == 5.10.2
 
