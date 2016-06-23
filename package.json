@@ -1,6 +1,6 @@
 {
   "name": "videojs-xhtml",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Videojs 5.10.2 with support of xhtml",
   "main": "video.js",
   "scripts": {
